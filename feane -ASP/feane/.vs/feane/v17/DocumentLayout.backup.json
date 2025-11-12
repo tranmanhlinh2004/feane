@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TranManhLinh\\repo\\feane -ASP\\feane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5F0498-9B8C-4A7B-A0E3-7542E5E48076}|feane\\feane.csproj|d:\\tranmanhlinh\\repo\\feane -asp\\feane\\feane\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF5F0498-9B8C-4A7B-A0E3-7542E5E48076}|feane\\feane.csproj|solutionrelative:feane\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5F0498-9B8C-4A7B-A0E3-7542E5E48076}|feane\\feane.csproj|d:\\tranmanhlinh\\repo\\feane -asp\\feane\\feane\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF5F0498-9B8C-4A7B-A0E3-7542E5E48076}|feane\\feane.csproj|solutionrelative:feane\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5F0498-9B8C-4A7B-A0E3-7542E5E48076}|feane\\feane.csproj|d:\\tranmanhlinh\\repo\\feane -asp\\feane\\feane\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF5F0498-9B8C-4A7B-A0E3-7542E5E48076}|feane\\feane.csproj|solutionrelative:feane\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5F0498-9B8C-4A7B-A0E3-7542E5E48076}|feane\\feane.csproj|d:\\tranmanhlinh\\repo\\feane -asp\\feane\\feane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5F0498-9B8C-4A7B-A0E3-7542E5E48076}|feane\\feane.csproj|solutionrelative:feane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "menu.cshtml",
+              "DocumentMoniker": "D:\\TranManhLinh\\repo\\feane -ASP\\feane\\feane\\Views\\Home\\menu.cshtml",
+              "RelativeDocumentMoniker": "feane\\Views\\Home\\menu.cshtml",
+              "ToolTip": "D:\\TranManhLinh\\repo\\feane -ASP\\feane\\feane\\Views\\Home\\menu.cshtml",
+              "RelativeToolTip": "feane\\Views\\Home\\menu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T02:07:30.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TranManhLinh\\repo\\feane -ASP\\feane\\feane\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "feane\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\TranManhLinh\\repo\\feane -ASP\\feane\\feane\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "feane\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEkEAAAAAAAAAAAqwF0EAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T01:56:27.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\TranManhLinh\\repo\\feane -ASP\\feane\\feane\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "feane\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\TranManhLinh\\repo\\feane -ASP\\feane\\feane\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "feane\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T01:44:20.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TranManhLinh\\repo\\feane -ASP\\feane\\feane\\Program.cs",
+              "RelativeDocumentMoniker": "feane\\Program.cs",
+              "ToolTip": "D:\\TranManhLinh\\repo\\feane -ASP\\feane\\feane\\Program.cs",
+              "RelativeToolTip": "feane\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T01:42:12.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
