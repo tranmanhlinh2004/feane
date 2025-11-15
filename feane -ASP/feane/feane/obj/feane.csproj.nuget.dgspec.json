@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thain\\OneDrive\\Máy tính\\clone\\feane\\feane -ASP\\feane\\feane\\feane.csproj": {}
+    "D:\\TranManhLinh\\feane\\feane -ASP\\feane\\feane\\feane.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thain\\OneDrive\\Máy tính\\clone\\feane\\feane -ASP\\feane\\feane\\feane.csproj": {
+    "D:\\TranManhLinh\\feane\\feane -ASP\\feane\\feane\\feane.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thain\\OneDrive\\Máy tính\\clone\\feane\\feane -ASP\\feane\\feane\\feane.csproj",
+        "projectUniqueName": "D:\\TranManhLinh\\feane\\feane -ASP\\feane\\feane\\feane.csproj",
         "projectName": "feane",
-        "projectPath": "C:\\Users\\thain\\OneDrive\\Máy tính\\clone\\feane\\feane -ASP\\feane\\feane\\feane.csproj",
-        "packagesPath": "C:\\Users\\thain\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thain\\OneDrive\\Máy tính\\clone\\feane\\feane -ASP\\feane\\feane\\obj\\",
+        "projectPath": "D:\\TranManhLinh\\feane\\feane -ASP\\feane\\feane\\feane.csproj",
+        "packagesPath": "C:\\Users\\tranmanhlinh\\.nuget\\packages\\",
+        "outputPath": "D:\\TranManhLinh\\feane\\feane -ASP\\feane\\feane\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\thain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tranmanhlinh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,6 +69,10 @@
               "target": "Package",
               "version": "[9.0.10, )"
             },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
             "SlugGenerator": {
               "target": "Package",
               "version": "[2.0.2, )"
@@ -96,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
